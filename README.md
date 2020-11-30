@@ -12,7 +12,7 @@
         <tbody>
             <tr>
                 <td width="240">
-                    <p aligh="center"><font face="Arial"><img width="240" border="0" id="photo" class="img-rounded" src="https://github.com/Liuy8/yuliu.github.io/blob/main/photo.jpg"></font></p>
+                    <p aligh="center"><font face="Arial"><img width="240" border="0" id="photo" class="img-rounded" src="https://github.com/yuliu724/yuliu.github.io/blob/main/photo.jpg"></font></p>
                 </td>
                             <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
                 <td width="670">
